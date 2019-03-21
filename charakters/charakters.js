@@ -5,12 +5,12 @@ function output() {
         var s = String.fromCharCode(r);
         process.stdout.write(s);
 
-        wait(5);
+        repeatAfter(5);
 }
 
 function wait(time) {
     setTimeout(output, time);
 }
 
-wait(5);
+repeatAfter(5);
 
