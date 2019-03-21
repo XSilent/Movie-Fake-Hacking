@@ -1,6 +1,7 @@
 Very simple program to output random charakters on the screen.
 
 **charakter.bas**
+
 Download "Commodore BASIC as a Scripting Language for UNIX and Windows", 
 change your shell color to black background and green charakters, paste
 the code and start it with RUN
