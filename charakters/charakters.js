@@ -8,7 +8,7 @@ function output() {
         repeatAfter(5);
 }
 
-function wait(time) {
+function repeatAfter(time) {
     setTimeout(output, time);
 }
 
